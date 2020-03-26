@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-
-=======
 Collin Broderick
 Tyler Bouwens
->>>>>>> c683c2f21e2590838cca97c0f11fa581b54548ab
 ryan astor
 AJ Thammana
